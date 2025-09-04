@@ -1,0 +1,19 @@
+{
+  "name": "@batman565/ajs-npm",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batman565/ajs-npm.git"
+  },
+  "author": "batman565",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batman565/ajs-npm/issues"
+  },
+  "homepage": "https://github.com/batman565/ajs-npm#readme",
+  "description": ""
+}
